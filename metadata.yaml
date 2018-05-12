@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2184
     wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38281#Der-K-nig-CandaulesDrama-in-drei-Akten
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2011-12-11'
 gutenberg_type: Text
