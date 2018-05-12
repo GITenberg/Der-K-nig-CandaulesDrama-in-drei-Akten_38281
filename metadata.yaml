@@ -1,0 +1,39 @@
+_repo: Der-K-nig-CandaulesDrama-in-drei-Akten_38281
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Blei, Franz
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '39373'
+    url: http://www.gutenberg.org/2009/agents/39373
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gide, André
+    aliases:
+    - Gide, André Paul Guillaume
+    - Gide, Andre
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '2184'
+    url: http://www.gutenberg.org/2009/agents/2184
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Gide
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2011-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38281'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Candaules, King of Lydia, -approximately 685 B.C. -- Drama'
+- !lcsh 'Gyges, King of Lydia, -approximately 648 B.C. -- Drama'
+title: 'Der König Candaules: Drama in drei Akten'
+url: http://www.gutenberg.org/ebooks/38281
